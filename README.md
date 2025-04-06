@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Football World</title>
-  <style>
+    <style>
         /* Football-themed styling */
         body {
             font-family: 'Arial', sans-serif;
@@ -236,7 +236,7 @@
 </section>
 
 <footer>
-        <p>&copy; 2023 Football World. All rights reserved.</p>
-    </footer>
+        <p>&copy; 2025  Football World. All rights reserved.</p>
+</footer>
 </body>
 </html>
