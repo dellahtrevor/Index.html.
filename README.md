@@ -227,7 +227,7 @@
             </div>
             <div class="form-group">
                 <label for="comments">Additional Information:</label>
-                <textarea id="comments" name="comments" rows="4" placeholder="Any additional information about your football experience"></textarea>
+            <textarea id="comments" name="comments" rows="4" placeholder="Any additional information about your football experience"></textarea>
             </div>
             <div class="form-group">
                 <button type="submit">Register for Football Club</button>
