@@ -223,7 +223,7 @@
                 <div>
                     <input type="checkbox" id="sunday" name="available_days" value="sunday">
                     <label for="sunday">Sunday</label>
-                </div>
+             </div>
             </div>
             <div class="form-group">
                 <label for="comments">Additional Information:</label>
