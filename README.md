@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football World</title>
-    <style>
+ <style>
         /* Football-themed styling */
         body {
             font-family: 'Arial', sans-serif;
@@ -86,10 +86,10 @@
             border: 3px solid #006400;
             border-radius: 5px;
         }
-    </style>
+</style>
 </head>
 <body>
-    <!-- Main header for the page -->
+    
 <header>
         <h1>⚽ Football World ⚽</h1>
         <p>Your ultimate football resource</p>
